@@ -1,0 +1,9 @@
+{ 
+    "token"  : "VOTRE TOKEN",
+    "prefix" : "!",
+    "host" : "127.0.0.1", 
+    "utilisateur" : "root",
+    "motdepasse" : "",
+    "database" : "ON"
+}
+
